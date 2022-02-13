@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slipoma Isaac Cards", "Slipoma Isaac Cards\Slipoma Isaac Cards.csproj", "{994991A2-1BA4-48F6-B7D0-4416E58D9F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994991A2-1BA4-48F6-B7D0-4416E58D9F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994991A2-1BA4-48F6-B7D0-4416E58D9F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994991A2-1BA4-48F6-B7D0-4416E58D9F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994991A2-1BA4-48F6-B7D0-4416E58D9F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DA7E8A-9E17-46EE-8E4E-ABD389BC2DB0}
+	EndGlobalSection
+EndGlobal

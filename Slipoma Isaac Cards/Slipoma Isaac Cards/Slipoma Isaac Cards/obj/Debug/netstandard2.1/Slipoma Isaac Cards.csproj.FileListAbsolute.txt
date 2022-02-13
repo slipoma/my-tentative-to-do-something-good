@@ -1,0 +1,5 @@
+C:\Users\insta\Documents\GitHub_mod\Slipoma Isaac Cards\Slipoma Isaac Cards\Slipoma Isaac Cards\obj\Debug\netstandard2.1\Slipoma Isaac Cards.csproj.AssemblyReference.cache
+C:\Users\insta\Documents\GitHub_mod\Slipoma Isaac Cards\Slipoma Isaac Cards\Slipoma Isaac Cards\obj\Debug\netstandard2.1\Slipoma Isaac Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insta\Documents\GitHub_mod\Slipoma Isaac Cards\Slipoma Isaac Cards\Slipoma Isaac Cards\obj\Debug\netstandard2.1\Slipoma Isaac Cards.AssemblyInfoInputs.cache
+C:\Users\insta\Documents\GitHub_mod\Slipoma Isaac Cards\Slipoma Isaac Cards\Slipoma Isaac Cards\obj\Debug\netstandard2.1\Slipoma Isaac Cards.AssemblyInfo.cs
+C:\Users\insta\Documents\GitHub_mod\Slipoma Isaac Cards\Slipoma Isaac Cards\Slipoma Isaac Cards\obj\Debug\netstandard2.1\Slipoma Isaac Cards.csproj.CoreCompileInputs.cache
